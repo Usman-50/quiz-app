@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "tailwind-scrollbar-hide";
+
+@keyframes shimmer {
+    100% {
+        transform: translateX(100%);
+    }
+}
