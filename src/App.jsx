@@ -4,6 +4,7 @@ import { Trophy, Target, Zap, Crown, CheckCircle2, XCircle, RefreshCw, Clock } f
 import LeftPanel from '../Component/LeftPanel';
 import RightPanel from '../Component/RightPanel';
 import questionBank from "../Component/questionBank";
+
 const initialState = {
   currentIndex: 0,
   score: 0,
